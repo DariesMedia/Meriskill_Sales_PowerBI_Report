@@ -1,4 +1,4 @@
-# Dynamic Sales Data Analysis
+# MeriSKILL Dynamic Sales Data Analysis
 
 ## Introduction
 
@@ -22,8 +22,9 @@ This project has significantly honed my data manipulation skills, empowering me 
 
 Feel free to delve into this project to witness firsthand the power of data analysis and its role in making informed decisions. Your feedback and insights are highly appreciated!
 
-[Explore the Dynamic Sales Data Analysis Project](link-to-your-project)
+[Explore the Dynamic Sales Data Analysis Project](https://raw.githubusercontent.com/DariesMedia/Meriskill_Sales_PowerBI_Report/main/Meriskill_Sales_PowerBI_Report.jpg)
 
 ## Keywords
 
 #DataAnalysis #SalesInsights #DataDrivenDecisions #MeriSKILL
+
